@@ -1,2 +1,2 @@
 # tdu_qr_reader
-An app to read QR Codes via integrated Camera and send read Data to a server with HTTP
+A mobile app to read QR Codes via integrated Camera and send the Data of QR to a REST-API.
